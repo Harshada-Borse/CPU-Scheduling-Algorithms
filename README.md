@@ -16,7 +16,7 @@
 
 <h2>Project Description</h2>
 
-<p>In this project, we've implemented various CPU scheduling algorithms, including First-Come-First-Serve (FCFS), Shortest Job First (SJF), Priority Scheduling (Non-preemptive), and Round Robin. These algorithms are crucial for process management in operating systems, ensuring efficient CPU utilization and process handling. Each algorithm is written in Java, providing a clear and structured approach to CPU scheduling. Feel free to explore the code, and if you encounter any issues or have suggestions, please let us know!</p>
+<p>In this project, I've implemented various CPU scheduling algorithms, including First-Come-First-Serve (FCFS), Shortest Job First (SJF), Priority Scheduling (Non-preemptive), and Round Robin. These algorithms are crucial for process management in operating systems, ensuring efficient CPU utilization and process handling. Each algorithm is written in Java, providing a clear and structured approach to CPU scheduling. Feel free to explore the code, and if you encounter any issues or have suggestions, please let us know!</p>
 
 <h2>Tech Stack</h2>
 
